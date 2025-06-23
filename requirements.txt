@@ -1,3 +1,6 @@
 azure.storage.blob
+azure-functions
 openai
 pydantic
+ortools
+pandas
